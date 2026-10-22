@@ -50,6 +50,8 @@ body.menu-open{overflow:hidden}
 .hero-actions{display:flex;flex-wrap:wrap;align-items:center;gap:14px}
 .btn{display:inline-flex;align-items:center;gap:8px;background:var(--green);color:#fff;text-decoration:none;border-radius:30px;padding:12px 22px;font-size:15px;font-weight:600}
 .btn:hover{background:var(--green-dark)}
+.play-badge{display:inline-block;line-height:0;margin:-11px -6px -11px -11px}
+.play-badge img{width:186px;height:72px;display:block}
 .phones{position:relative;height:540px}
 .phone{position:absolute;width:250px;border-radius:34px;overflow:hidden;border:7px solid #10170f;background:#10170f;box-shadow:0 30px 60px -20px rgba(28,48,24,.35)}
 .phone img{width:100%;height:auto}
